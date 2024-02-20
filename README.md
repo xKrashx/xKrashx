@@ -2,12 +2,12 @@
 <h3 align="center">A Computer Science, Bachelour Student</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=krashm&label=Profile%20views&color=0e75b6&style=flat" alt="krashm"/>
+    <img src="https://komarev.com/ghpvc/?username=xkrashx&label=Profile%20views&color=0e75b6&style=flat" alt="xkrashx"/>
 </p>
 
-- 🔭 I’m currently teaching [Object Oriented Programming](https://github.com/KrashM/Object_Oriented_Programming)
+- 🔭 I’m currently teaching [Object Oriented Programming](https://github.com/peshe/OOP-2024)
 
-- 🌱 I’m currently learning **Bridge**
+- 🌱 I’m currently learning **3D graphics and ray tracing**
 
 - 📫 How to reach me **HristoKanevKrash@gmail.com**
 
@@ -64,12 +64,12 @@
     <tr>
         <td align="center">
             <p>
-                <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krashm&show_icons=true&locale=en&layout=compact" alt="krashm"/>
+                <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xkrashx&show_icons=true&locale=en&layout=compact" alt="xkrashx"/>
             </p>
         </td>
         <td align="center">
             <p>
-                <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=krashm&" alt="krashm"/>
+                <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xkrashx&" alt="xkrashx"/>
             </p>
         </td>
     </tr>
